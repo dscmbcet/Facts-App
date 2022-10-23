@@ -42,7 +42,7 @@ Android app built using Jetpack Compsoe for displaying facts.
 </br>
 
 # Contributors
-[![Contributors](https://contrib.rocks/image?repo=dscmbcet/hacktoberfest-2022)](https://github.com/dscmbcet/Facts-App/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=dscmbcet/Facts-App)](https://github.com/dscmbcet/Facts-App/graphs/contributors)
 
 </br>
 

@@ -64,6 +64,13 @@ class Datasource {
             ),
 
             // Insert your fact here
+            Fact(
+                info = "The human circulatory system is more than 60,000 miles long (96,560 km!)",
+                source = "www.rd.com",
+                imageId = R.drawable.circulatory_system,
+                type = FactType.SCIENCE,
+                submittedBy = "mksiddiq"
+            )
 
         )
     }

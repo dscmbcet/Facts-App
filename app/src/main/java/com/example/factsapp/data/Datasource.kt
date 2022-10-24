@@ -49,6 +49,15 @@ class Datasource {
                 submittedBy = "BenGeorgeNetto"
             ),
             Fact(
+                info = "Researchers have found that during thunderstorms plants emit electric " +
+                        "discharges along with hydroxyl (OH) and hydroperoxyl (HO2), " +
+                        "which can change the surrounding air quality by altering molecules",
+                source = "r/interestingasfuck",
+                imageId = R.drawable.plants_lightning,
+                type = FactType.SCIENCE,
+                submittedBy = "BenGeorgeNetto"
+            ),
+            Fact(
                 info = "Koalas have fingerprints that are almost indistinguishable from human fingerprints",
                 source = "r/funfacts",
                 imageId = R.drawable.koala,

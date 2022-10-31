@@ -79,7 +79,14 @@ class Datasource {
                 imageId = R.drawable.circulatory_system,
                 type = FactType.SCIENCE,
                 submittedBy = "mksiddiq"
-            )
+            ),
+            Fact(
+                info = "The word “mafia” is never mentioned in the film version of The Godfather because the actual mafia demanded it",
+                source = "r/facts",
+                imageId = R.drawable.godfather,
+                type = FactType.MISC,
+                submittedBy = "BenGeorgeNetto"
+            ),
 
         )
     }
